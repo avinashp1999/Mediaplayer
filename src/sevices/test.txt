@@ -1,0 +1,38 @@
+ const url=https://youtu.be/LRHSq0tTLB0?list=RDMMLRHSq0tTLB0
+<iframe width="838" height="471" src="https://www.youtube.com/embed/LRHSq0tTLB0?list=RDMMLRHSq0tTLB0" 
+title="Sita Kalyanam Lyric Video - Solo | Dulquer Salmaan, Neha Sharma, Bejoy Nambiar | Trend Music" f
+rameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+ web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ const embeded_url="https://www.youtube.com/embed/LRHSq0tTLB0?list=RDMMLRHSq0tTLB0"
+
+
+
+
+
+ ------
+ https://www.youtube.com/embed/LRHSq0tTLB0?list=JZzgOPaLuGw
+
+
+
+ aslask..youtube video
+ https://www.youtube.com/watch?v=dL6btsdi7Rc
+ aslask embeded link
+
+
+ <iframe width="966" height="509" src="https://www.youtube.com/embed/JZzgOPaLuGw"
+  title="&quot;Asku Laska&quot;
+  Nanban  Movie Songs | 2k Video | நண்பன் | Vijay, Ileana, Jiva, Srikanth" 
+  frameborder="0" allow="accelerometer; 
+  autoplay; clipboard-write; encrypted-media; gyroscope;
+  picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
+  allowfullscreen></iframe>
+
+
+  https://youtu.be/LRHSq0tTLB0?list=RDdqzcQF2Bz7o
+ https://youtu.be/p7GmO8ewjmw?list=RDdqzcQF2Bz7o
+ https://youtu.be/p7GmO8ewjmw?list=RDdqzcQF2Bz7o
+
+
+ https://youtu.be/p7GmO8ewjmw
+ https://youtu.be/LRHSq0tTLB0
+ https://youtu.be/pxCWiYFkvTg
