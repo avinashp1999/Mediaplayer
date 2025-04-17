@@ -9,6 +9,7 @@ import { addHistory } from '../sevices/allApi';
 import { getHistory } from '../sevices/allApi';
 import { videoDetailsWithId } from '../sevices/allApi';
 import { removeVideoFromCategory } from '../sevices/allApi';
+import serverurl from '../sevices/serverurl';
 
 function VideocardCategories({ displayVideo, categoryId ,setCatDel}) {
     console.log("idddd", categoryId);
@@ -66,7 +67,7 @@ function VideocardCategories({ displayVideo, categoryId ,setCatDel}) {
             console.log('video id is ',videoId);
             
             // First, get the category
-            const response = await fetch(`http://localhost:5006/category/${categoryId}`);
+            const response = await fetch(`${serverurl}category/${categoryId}`);
             const category = await response.json();
             console.log(category);
             
@@ -75,7 +76,7 @@ function VideocardCategories({ displayVideo, categoryId ,setCatDel}) {
             const updatedVideos = category.addVideos?.filter(video => video.id !== videoId);
 
             // Update the category with the new videos array
-            const updateResponse = await fetch(`http://localhost:5006/category/${categoryId}`, {
+            const updateResponse = await fetch(`${serverurl}category/${categoryId}`, {
                 method: 'PATCH',
                 headers: {
                     'Content-Type': 'application/json',

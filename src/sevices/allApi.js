@@ -2,7 +2,7 @@ import commonApi from './commonAPIs'
 import serverurl from './serverurl'
 // upload videos into the db
 const uploadVideo= async (reqBody)=>{
-  return await  commonApi('POST',"http://localhost:5006/video",reqBody)
+  return await  commonApi('POST',`${serverurl}video`,reqBody)
 
 }
 export default uploadVideo
